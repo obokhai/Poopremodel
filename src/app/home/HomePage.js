@@ -164,7 +164,7 @@ export default function HomePage() {
           <div className="space-y-6 lg:w-[85%] w-full">
             <h2 className="raleway-heading text-main_text text-2xl">2. Get Optimized and Rank Up</h2>
             <p className="leading-6 text-sm tracking-wide">This is the first process that give us the permission to reach out to you , to agree on a convenient time to visit your property and evaluate your waste water and water infrastructure for free, also providing you a digital report on our findings and provide expert feedbacks on our best to maintain or improve the state of your waste water and water infrastructure.</p>
-            <Image src={'/P4B_MacBook.png'} alt="MacBook Pooplog Demo 2" width={600} height={300} className="lg:mx-auto"/>
+            <Image src={'/P4B_Macbook_Display.png'} alt="Pooplogg Demo" width={600} height={300} className="lg:mx-auto"/>
           </div>
           <div className="space-y-6 lg:w-[85%] w-full">
             <h2  className="raleway-heading text-main_text text-2xl">3. Get Optimized and Rank Up!</h2>
